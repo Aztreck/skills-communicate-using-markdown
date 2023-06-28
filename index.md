@@ -1,3 +1,4 @@
 # This is my first attempt using markdown
 ## It is an easy to use languages
 ###### Its fun to use
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
